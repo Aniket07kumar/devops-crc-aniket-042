@@ -1,0 +1,37 @@
+cd                                            to change the directory
+3 ways: 
+      cd complete_path_of_directory           jump to specified directory
+      cd ..                                   go to previous directory
+      cd \                                    redirect to root directory
+
+
+whoami                                        to identify the current user
+
+sudo                                          to provide the access on admin level
+
+apt install                                   to install a new program or package in that machine
+
+touch                                         create an empty file
+
+touch -a filename                             updates only the access time (atime) of the file
+
+touch -m filename                             updates only the modification time (mtime) of the file.
+
+stat                                          Displays detailed information about a file
+
+                                              Includes:File size,Permissions,Access time (atime),Modify time (mtime),Change time (ctime)   
+
+ls                                            Lists files and directories in the current folder
+
+ls -a                                         Lists all files, including hidden files
+
+ll                                            Shows files in long list format (detailed view)
+                                              shows permissions, owners, file size, date/time
+
+cat 
+3 ways : 
+        cat filename                          view file
+        cat > filename                        create/write file
+        cat >> filename                       append content to file
+
+
